@@ -39,7 +39,7 @@ The following **additional** features are implemented:
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+It was difficult to get the progress bar to not reset each time a question is answered. I took the longest time trying to figure it out and it is still confusing. 
 
 ## License
 
